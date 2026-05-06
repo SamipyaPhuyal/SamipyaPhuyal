@@ -20,8 +20,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/gQ_I5UadPmb8HisTK897z7aHXzsNE6FKakKpfr1XjM4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhNVEU1WVRSd2Rq/UnJZVGQwYURCck9H/azNkVFoxY1Rob2Nq/QjFOMkZ5ZDJseE0z/QnpiblpzY3labGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vSGhYbUVSSEhQ/dUxTYm9zeWRQLzIw/MC5naWY.jpeg"  />
-
 ###
 
 <div align="left">
